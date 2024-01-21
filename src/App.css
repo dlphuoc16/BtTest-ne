@@ -1,0 +1,16 @@
+.random-button {
+  transform: translateX(750px);
+}
+.author-button {
+  
+  color: black;
+  padding: 5px;
+  border: solid;
+  cursor: pointer;
+}
+
+.author-button:hover {
+  background: black;
+  color: white;
+  
+}
